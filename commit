@@ -1,0 +1,4 @@
+commit message
+
+I changed the circle to a triangle and added one of the conditionals if x < width / 4 and >< of them so that I can have another color in there (red) and changed
+some of the movement speeds so that it looks better to me.
